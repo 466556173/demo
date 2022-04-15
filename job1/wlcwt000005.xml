@@ -1,0 +1,41 @@
+<annotation><size><width>800</width><height>600</height></size>
+            <object>
+                <name>newaoli</name>
+                <bndbox>
+                    <xmin>186</xmin>
+                    <ymin>116</ymin>
+                    <xmax>296</xmax>
+                    <ymax>221</ymax>
+                </bndbox>
+            </object>
+            
+            <object>
+                <name>newaoli</name>
+                <bndbox>
+                    <xmin>299</xmin>
+                    <ymin>106</ymin>
+                    <xmax>421</xmax>
+                    <ymax>227</ymax>
+                </bndbox>
+            </object>
+            
+            <object>
+                <name>newaoli</name>
+                <bndbox>
+                    <xmin>427</xmin>
+                    <ymin>99</ymin>
+                    <xmax>534</xmax>
+                    <ymax>221</ymax>
+                </bndbox>
+            </object>
+            
+            <object>
+                <name>newaoli</name>
+                <bndbox>
+                    <xmin>536</xmin>
+                    <ymin>119</ymin>
+                    <xmax>630</xmax>
+                    <ymax>233</ymax>
+                </bndbox>
+            </object>
+            </annotation>

@@ -1,0 +1,41 @@
+<annotation><size><width>800</width><height>600</height></size>
+            <object>
+                <name>newhn</name>
+                <bndbox>
+                    <xmin>290</xmin>
+                    <ymin>300</ymin>
+                    <xmax>375</xmax>
+                    <ymax>389</ymax>
+                </bndbox>
+            </object>
+            
+            <object>
+                <name>newhn</name>
+                <bndbox>
+                    <xmin>206</xmin>
+                    <ymin>435</ymin>
+                    <xmax>279</xmax>
+                    <ymax>504</ymax>
+                </bndbox>
+            </object>
+            
+            <object>
+                <name>newhn</name>
+                <bndbox>
+                    <xmin>299</xmin>
+                    <ymin>448</ymin>
+                    <xmax>381</xmax>
+                    <ymax>520</ymax>
+                </bndbox>
+            </object>
+            
+            <object>
+                <name>newhn</name>
+                <bndbox>
+                    <xmin>439</xmin>
+                    <ymin>481</ymin>
+                    <xmax>513</xmax>
+                    <ymax>544</ymax>
+                </bndbox>
+            </object>
+            </annotation>

@@ -1,0 +1,41 @@
+<annotation><size><width>800</width><height>600</height></size>
+            <object>
+                <name>newbtxl</name>
+                <bndbox>
+                    <xmin>157</xmin>
+                    <ymin>62</ymin>
+                    <xmax>244</xmax>
+                    <ymax>152</ymax>
+                </bndbox>
+            </object>
+            
+            <object>
+                <name>newbtxl</name>
+                <bndbox>
+                    <xmin>603</xmin>
+                    <ymin>141</ymin>
+                    <xmax>692</xmax>
+                    <ymax>227</ymax>
+                </bndbox>
+            </object>
+            
+            <object>
+                <name>newbtxl</name>
+                <bndbox>
+                    <xmin>607</xmin>
+                    <ymin>312</ymin>
+                    <xmax>707</xmax>
+                    <ymax>412</ymax>
+                </bndbox>
+            </object>
+            
+            <object>
+                <name>newbtxl</name>
+                <bndbox>
+                    <xmin>304</xmin>
+                    <ymin>449</ymin>
+                    <xmax>421</xmax>
+                    <ymax>576</ymax>
+                </bndbox>
+            </object>
+            </annotation>

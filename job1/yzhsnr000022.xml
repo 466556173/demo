@@ -1,0 +1,51 @@
+<annotation><size><width>800</width><height>600</height></size>
+            <object>
+                <name>yzhsnr</name>
+                <bndbox>
+                    <xmin>256</xmin>
+                    <ymin>56</ymin>
+                    <xmax>405</xmax>
+                    <ymax>159</ymax>
+                </bndbox>
+            </object>
+            
+            <object>
+                <name>yzhsnr</name>
+                <bndbox>
+                    <xmin>226</xmin>
+                    <ymin>304</ymin>
+                    <xmax>408</xmax>
+                    <ymax>486</ymax>
+                </bndbox>
+            </object>
+            
+            <object>
+                <name>yzhsnr</name>
+                <bndbox>
+                    <xmin>133</xmin>
+                    <ymin>38</ymin>
+                    <xmax>234</xmax>
+                    <ymax>117</ymax>
+                </bndbox>
+            </object>
+            
+            <object>
+                <name>yzhsnr</name>
+                <bndbox>
+                    <xmin>105</xmin>
+                    <ymin>118</ymin>
+                    <xmax>207</xmax>
+                    <ymax>227</ymax>
+                </bndbox>
+            </object>
+            
+            <object>
+                <name>yzhsnr</name>
+                <bndbox>
+                    <xmin>89</xmin>
+                    <ymin>247</ymin>
+                    <xmax>180</xmax>
+                    <ymax>395</ymax>
+                </bndbox>
+            </object>
+            </annotation>

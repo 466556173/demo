@@ -1,0 +1,161 @@
+<annotation><size><width>800</width><height>600</height></size>
+            <object>
+                <name>newbtxl</name>
+                <bndbox>
+                    <xmin>175</xmin>
+                    <ymin>35</ymin>
+                    <xmax>273</xmax>
+                    <ymax>121</ymax>
+                </bndbox>
+            </object>
+            
+            <object>
+                <name>newbtxl</name>
+                <bndbox>
+                    <xmin>46</xmin>
+                    <ymin>207</ymin>
+                    <xmax>142</xmax>
+                    <ymax>279</ymax>
+                </bndbox>
+            </object>
+            
+            <object>
+                <name>newbtxl</name>
+                <bndbox>
+                    <xmin>39</xmin>
+                    <ymin>331</ymin>
+                    <xmax>142</xmax>
+                    <ymax>428</ymax>
+                </bndbox>
+            </object>
+            
+            <object>
+                <name>newbtxl</name>
+                <bndbox>
+                    <xmin>596</xmin>
+                    <ymin>161</ymin>
+                    <xmax>698</xmax>
+                    <ymax>260</ymax>
+                </bndbox>
+            </object>
+            
+            <object>
+                <name>yzhsnr</name>
+                <bndbox>
+                    <xmin>115</xmin>
+                    <ymin>500</ymin>
+                    <xmax>209</xmax>
+                    <ymax>596</ymax>
+                </bndbox>
+            </object>
+            
+            <object>
+                <name>yzhsnr</name>
+                <bndbox>
+                    <xmin>695</xmin>
+                    <ymin>414</ymin>
+                    <xmax>742</xmax>
+                    <ymax>504</ymax>
+                </bndbox>
+            </object>
+            
+            <object>
+                <name>yzhsnr</name>
+                <bndbox>
+                    <xmin>591</xmin>
+                    <ymin>65</ymin>
+                    <xmax>674</xmax>
+                    <ymax>150</ymax>
+                </bndbox>
+            </object>
+            
+            <object>
+                <name>yzhsnr</name>
+                <bndbox>
+                    <xmin>689</xmin>
+                    <ymin>146</ymin>
+                    <xmax>742</xmax>
+                    <ymax>237</ymax>
+                </bndbox>
+            </object>
+            
+            <object>
+                <name>newhn</name>
+                <bndbox>
+                    <xmin>445</xmin>
+                    <ymin>132</ymin>
+                    <xmax>524</xmax>
+                    <ymax>198</ymax>
+                </bndbox>
+            </object>
+            
+            <object>
+                <name>newhn</name>
+                <bndbox>
+                    <xmin>430</xmin>
+                    <ymin>212</ymin>
+                    <xmax>513</xmax>
+                    <ymax>291</ymax>
+                </bndbox>
+            </object>
+            
+            <object>
+                <name>newhn</name>
+                <bndbox>
+                    <xmin>309</xmin>
+                    <ymin>433</ymin>
+                    <xmax>388</xmax>
+                    <ymax>511</ymax>
+                </bndbox>
+            </object>
+            
+            <object>
+                <name>newhn</name>
+                <bndbox>
+                    <xmin>183</xmin>
+                    <ymin>244</ymin>
+                    <xmax>249</xmax>
+                    <ymax>319</ymax>
+                </bndbox>
+            </object>
+            
+            <object>
+                <name>newaoli</name>
+                <bndbox>
+                    <xmin>293</xmin>
+                    <ymin>98</ymin>
+                    <xmax>425</xmax>
+                    <ymax>208</ymax>
+                </bndbox>
+            </object>
+            
+            <object>
+                <name>newaoli</name>
+                <bndbox>
+                    <xmin>544</xmin>
+                    <ymin>313</ymin>
+                    <xmax>640</xmax>
+                    <ymax>439</ymax>
+                </bndbox>
+            </object>
+            
+            <object>
+                <name>newaoli</name>
+                <bndbox>
+                    <xmin>525</xmin>
+                    <ymin>448</ymin>
+                    <xmax>622</xmax>
+                    <ymax>543</ymax>
+                </bndbox>
+            </object>
+            
+            <object>
+                <name>newaoli</name>
+                <bndbox>
+                    <xmin>409</xmin>
+                    <ymin>368</ymin>
+                    <xmax>541</xmax>
+                    <ymax>504</ymax>
+                </bndbox>
+            </object>
+            </annotation>
